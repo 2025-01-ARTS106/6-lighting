@@ -8233,7 +8233,8 @@ PrefabInstance:
       value: mobile_tree_02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: -6782148271306784034, guid: 9124851aa09894c5899db5d4f23e76a3, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9124851aa09894c5899db5d4f23e76a3, type: 3}
